@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.vercel.ehs_management_system.twa",
+      "sha256_cert_fingerprints": [
+        "97:61:AE:0A:58:C2:1B:E1:85:60:E0:D7:7D:E7:35:FA:06:25:7E:B5:47:DE:8D:8B:D2:6A:45:B9:0B:8B:B1:E6"
+      ]
+    }
+  }
+]
